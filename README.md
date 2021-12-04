@@ -4,4 +4,5 @@
 
 ## 资源表列
 
-- N/A
+- Week 1
+  - [Brief View of Markdown](Week1/Brief_View_of_Markdown.pdf) by [KevinZonda](https://github.com/KevinZonda)
